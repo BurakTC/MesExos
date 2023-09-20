@@ -1,0 +1,6 @@
+Instructione :
+1 : sudo apt-get update
+2 : dpkg -l | grep chromium
+3 : sudo apt-get install chromium-browser
+4 : chromium browser (fonctionne pas chez moi)
+5 : sudo apt-get remove chromium-browser
