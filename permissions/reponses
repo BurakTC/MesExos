@@ -1,0 +1,7 @@
+1 : touch cobaye
+2 : ls -l cobaye    (cobaye = mon fichier)
+3 : sudo chown root cobaye 
+4 : sudo chgrp root cobaye
+5 : ls -l cobaye
+6 : chmod 770 cobaye ;  7= tout les droits, dans l'ordre owner,group,users 7-7-0
+7 : cat cobaye  ; j'ai le droit car je suis admin
