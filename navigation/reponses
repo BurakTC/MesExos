@@ -1,0 +1,8 @@
+Instructions :
+1 : pwd
+2 : ls
+3 : ls /
+4 : cd /bin   ou pushd /bin
+5 : pwd
+6 : cd /c/Users/Burak/Documents/BeCode/MesExos/navigation  ou popd
+7 : cd ou cd ~

@@ -1,0 +1,13 @@
+Instructions :
+1 : touch one.txt
+2 : echo "Hello World" > one.txt
+3 : cat one.txt
+4 : mkdir story
+5 : mv one.txt story
+6 : cp story/one.txt story/two.txt
+7 : cat story/one.txt story/two.txt
+8 : mv one.txt part-one.txt  (idem pour two.txt)
+9 : echo "I am a junior at BeCode." > story/part_two.txt
+10: cat story/part-one.txt story/part-two.txt
+11: rmdir si le dossier est vide, rm -r si le dossier a un contenu
+
